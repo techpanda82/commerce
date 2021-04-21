@@ -7,7 +7,6 @@ Start right now at [nextjs.org/commerce](https://nextjs.org/commerce)
 
 Demo live at: [demo.vercel.store](https://demo.vercel.store/)
 
-- Shopify Demo: https://shopify.demo.vercel.store/
 - BigCommerce Demo: https://bigcommerce.demo.vercel.store/
 
 ## Features
@@ -75,14 +74,8 @@ Our commitment to Open Source can be found [here](https://vercel.com/oss).
 3. Install yarn: `npm install -g yarn`
 4. Install the dependencies: `yarn`
 5. Duplicate `.env.template` and rename it to `.env.local`
-6. Add proper store values to `.env.local`
+6. Add proper store values to `.env.local`, use default value for BigCommerce settings
 7. Run `yarn dev` to build and watch for code changes
-
-## Work in progress
-
-We're using Github Projects to keep track of issues in progress and todo's. Here is our [Board](https://github.com/vercel/commerce/projects/1)
-
-People actively working on this project: @okbel & @lfades.
 
 ## Troubleshoot
 
