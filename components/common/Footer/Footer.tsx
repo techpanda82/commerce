@@ -97,10 +97,10 @@ const Footer: FC<Props> = ({ className, pages }) => {
         </div>
         <div className="py-12 flex flex-col md:flex-row justify-between items-center space-y-4">
           <div>
-            <span>&copy; 2020 Footie, Inc. UAT All rights reserved.</span>
+            <span>&copy; 2020 Footie, Inc. All rights reserved.</span>
           </div>
           <div className="flex items-center text-primary">
-            <span className="text-primary">Crafted by</span>
+            <span className="text-primary">Crafted by UAT </span>
             <a
               rel="noopener"
               href="https://commerce-techpanda82.vercel.app"
