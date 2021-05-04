@@ -100,7 +100,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <span>&copy; 2020 Footie, Inc. All rights reserved.</span>
           </div>
           <div className="flex items-center text-primary">
-            <span className="text-primary">Crafted by UAT </span>
+            <span className="text-primary">Crafted on Dev env </span>
             <a
               rel="noopener"
               href="https://commerce-techpanda82.vercel.app"
