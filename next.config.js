@@ -9,6 +9,7 @@ const isBC = provider === 'bigcommerce'
 const isShopify = provider === 'shopify'
 
 module.exports = withCommerceConfig({
+  distDir: 'out',
   commerce,
   i18n: {
     locales: ['en-US', 'es'],
